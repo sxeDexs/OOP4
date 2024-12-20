@@ -1,0 +1,189 @@
+{
+    "ability_manager": {
+        "abilities": [
+            [
+                "type",
+                "Scanner"
+            ],
+            [
+                "type",
+                "DoubleDamage"
+            ],
+            [
+                "type",
+                "Bombard"
+            ],
+            [
+                "type",
+                "Scanner"
+            ]
+        ],
+        "len_queue": 4
+    },
+    "field_enemy": {
+        "bot_attacked": true,
+        "field": [
+            [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            [
+                0,
+                0,
+                2,
+                0,
+                2
+            ],
+            [
+                2,
+                0,
+                2,
+                0,
+                0
+            ],
+            [
+                2,
+                0,
+                0,
+                0,
+                0
+            ],
+            [
+                0,
+                0,
+                0,
+                2,
+                0
+            ]
+        ],
+        "height": 5,
+        "width": 5
+    },
+    "field_user": {
+        "bot_attacked": false,
+        "field": [
+            [
+                2,
+                0,
+                2,
+                0,
+                2
+            ],
+            [
+                2,
+                0,
+                2,
+                1,
+                0
+            ],
+            [
+                0,
+                0,
+                0,
+                0,
+                1
+            ],
+            [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            [
+                0,
+                0,
+                0,
+                0,
+                2
+            ]
+        ],
+        "height": 5,
+        "width": 5
+    },
+    "ship_manager_enemy": {
+        "coordinate_ships": [
+            [
+                0,
+                2,
+                true
+            ],
+            [
+                2,
+                1,
+                true
+            ],
+            [
+                3,
+                4,
+                false
+            ],
+            [
+                4,
+                1,
+                true
+            ]
+        ],
+        "count": 4,
+        "ships": [
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                2
+            ],
+            [
+                0
+            ]
+        ]
+    },
+    "ship_manager_user": {
+        "coordinate_ships": [
+            [
+                0,
+                0,
+                true
+            ],
+            [
+                2,
+                0,
+                true
+            ],
+            [
+                4,
+                0,
+                false
+            ],
+            [
+                4,
+                4,
+                false
+            ]
+        ],
+        "count": 4,
+        "ships": [
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0
+            ],
+            [
+                0
+            ]
+        ]
+    }
+}

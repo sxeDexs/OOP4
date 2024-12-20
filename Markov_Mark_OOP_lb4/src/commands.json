@@ -1,0 +1,14 @@
+{
+    "a": "attack",
+    "ms": "state_my_ships",
+    "es": "state_enemy_ships",
+    "q": "quit",
+    "se": "show_enemy_ships",
+    "sm": "show_my_ships",
+    "f": "fields",
+    "n": "next_ability",
+    "s": "save_game",
+    "l": "load_game",
+    "aa": "apply_ability",
+    "h": "help"
+}
